@@ -25,7 +25,7 @@ https://nodejs-authentication-z170.onrender.com
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/nodejs-auth.git`
+`git clone https://github.com/Souhardyagayen99/Nodejs-Authentication
 
 ##### Into the project directory
 
